@@ -1,0 +1,1 @@
+x=msgbox("I love You" ,0, "Smartdicas.com")
