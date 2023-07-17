@@ -1,5 +1,9 @@
 Uma lista com diversos comandos para Windows XP/Vista e Seven
 
+`devmgmt.msc` - devices manager  
+`diskmgmt.msc` - disk manager  
+`compmgmt.msc` - computer manager
+
 - Adicionar/Remover Programas
 
 Digite: appwiz.cpl
@@ -464,9 +468,10 @@ Digite: compmgmt.msc
 Digite: timedate.cpl
 
 - Desfragmentador de Disco
+  `dfrg.msc`
 
-## Digite: dfrg.msc
+- Informações do sistema:
+  `msinfo32`
 
-- Informações do sistema: msinfo32
-
-- Windows installer version check: msiexec.exe
+- Windows installer version check:
+  `msiexec.exe`
