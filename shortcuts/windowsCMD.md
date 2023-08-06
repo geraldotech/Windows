@@ -19,7 +19,8 @@
 
 - slmgr.vbs –xpr
 - winver
-- Network
+
+### Network
 - netstat arp –a - Tabela ARP
 - netstat –r – Tabela de roteamento
 - netstat –a – Tabela de processos em execução usando endereço IP
