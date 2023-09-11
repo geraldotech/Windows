@@ -3,6 +3,7 @@ Uma lista com diversos comandos para Windows XP/Vista e Seven
 `devmgmt.msc` - devices manager  
 `diskmgmt.msc` - disk manager  
 `compmgmt.msc` - computer manager
+`taskschd.msc` - Windows Task Scheduler
 
 - Adicionar/Remover Programas
 
