@@ -14,6 +14,7 @@
 - Tasklist - Mostra a lista de processos sendo executados no Windows.
 - Taskkill - Permite finalizar algum processo. O comando é quase sempre usado com base nas informações fornecidas pelo tasklist. Por exemplo, para finalizar o Messenger digite - "taskkill /PID 1680". A identificação do PID de cada processo sendo executado você ficará sabendo com o comando tasklist.
 - cls – limpa a janela
+- rmdir node_modules /s
 
 ### Verificar ativação
 
