@@ -5,13 +5,9 @@ Uma lista com diversos comandos para Windows XP/Vista e Seven
 `compmgmt.msc` - computer manager
 `taskschd.msc` - Windows Task Scheduler
 
-- Adicionar/Remover Programas
+- Adicionar/Remover Programas: `appwiz.cpl`
 
-Digite: appwiz.cpl
-
-- Ferramentas Administrativas
-
-Digite: control admintools
+- Ferramentas Administrativas: `control admintools`
 
 - Atualizações Automáticas
 
@@ -199,10 +195,6 @@ Digite: taskmgr
 - Cliente de Telnet
 
 Digite: telnet
-
-- Desligar o Windows
-
-Digite: shutdown
 
 - System File Checker (Pesquisa imediatamente todos os APS)
 
