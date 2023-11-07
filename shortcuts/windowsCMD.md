@@ -10,7 +10,10 @@
 - time – acertar a hora
 - Diskpart - Gerencia as partições de um disco.
 - Driverquery - Mostra a lista de drivers instalados no Windows e as respectivas propriedades.
-- Shutdown - O comando shutdown permite desligar ou reiniciar o computador de forma imediata ou agendada.
+- shutdown - O comando shutdown permite desligar ou reiniciar o computador de forma imediata ou agendada.
+  - Desligamento forçado: shutdown -f
+  - Desligar by time: shutdown -s -t 180 -c "bye"
+  - Abort: shutdown -a
 - Tasklist - Mostra a lista de processos sendo executados no Windows.
 - Taskkill - Permite finalizar algum processo. O comando é quase sempre usado com base nas informações fornecidas pelo tasklist. Por exemplo, para finalizar o Messenger digite - "taskkill /PID 1680". A identificação do PID de cada processo sendo executado você ficará sabendo com o comando tasklist.
 - cls – limpa a janela
