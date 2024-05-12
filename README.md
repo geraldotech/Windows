@@ -1,5 +1,6 @@
 # Windows
 
+- run in cmd: 
 ```net
 mshta vbscript:Execute("msgbox ""Hello World"":close")
 ```
